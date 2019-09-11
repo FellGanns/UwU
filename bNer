@@ -155,7 +155,7 @@ echo $ungu" 64) install MX-Tools"
 echo $green" 65) Tentang Rafell"
 echo  $red" 0) Exit "
 echo  $white""
-read -p "[root@MR.F3eLL]> " bos;
+read -p "root@./FellGanns ~#" bos;
 
 if [ $bos = 1 ] || [ $bos = 1 ]
 then
@@ -421,12 +421,12 @@ fi
 if [ $bos = 20 ] || [ $bos = 20 ]
 then
 clear
-echo $green"BIODATA MR.F3eLL"
-echo $cyan"Nama=Rafell Pramudika"
-echo $red"Sekolah=Stm Bonser 2 "
-echo $blue"asal=Jakarta Timur"
-echo $purple"status=Jomblo"
-echo $yellow"hobi=Makan Tidur Ngentod udah dan hobi gw anak Nolep"
+echo $green"BIODATA ./Fell Ganns"
+echo $cyan"Nama =Rafell Pramudika"
+echo $red"Sekolah =Stm Bonser 2 "
+echo $blue"asal =Jakarta Timur"
+echo $purple"status = Pahit"
+echo $yellow"hobi =Makan Tidur dan Hobi Gw Nolep :)"
 echo $white" B I O D A T A N Y A P A H I T "
 fi
 
